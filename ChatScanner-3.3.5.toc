@@ -1,0 +1,7 @@
+## Interface: 30300
+## Title: ChatScanner-3.3.5
+## Version: 0.0.2-wotlk
+## Author: databoose
+## Notes: Chat filtering addon for whitelisting and blacklisting messages (WoW 3.3.5 Compatible)
+## SavedVariables: whitelistedStringTable, blacklistedStringTable, caseInsensitive, debug_mode, clear_on_startup
+ChatScanner.lua
